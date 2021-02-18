@@ -1,9 +1,11 @@
 # Classes-CS11-747-Spring-CMU
 CS11-747,Spring@CMU: Neural Networks for NLP
 
-## Class Schedule
+## [Class Schedule](http://www.phontron.com/class/nn4nlp2021/schedule.html)
 
-* [Introduction to Simple Neural Networks](https://www.youtube.com/watch?v=vnx6M7N-ggs&feature=youtu.be&ab_channel=GrahamNeubig) 2/2/2021
+共27次课，Class 7为break，Class 27为presentation。点击class schedule中的课程链接，可看到课程内容、参考资料、视频、讲义以及sample code等。
+
+* Introduction to Simple Neural Networks 2/2/2021
 
 * Language Modeling, Training Tricks (2/4/2021)
 
