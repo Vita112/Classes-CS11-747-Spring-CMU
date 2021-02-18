@@ -3,7 +3,7 @@ CS11-747,Spring@CMU: Neural Networks for NLP
 
 ## Class Schedule
 
-* [Introduction to Simple Neural Networks] (https://www.youtube.com/watch?v=vnx6M7N-ggs&feature=youtu.be&ab_channel=GrahamNeubig)(2/2/2021)
+* [Introduction to Simple Neural Networks](https://www.youtube.com/watch?v=vnx6M7N-ggs&feature=youtu.be&ab_channel=GrahamNeubig) 2/2/2021
 
 * Language Modeling, Training Tricks (2/4/2021)
 
